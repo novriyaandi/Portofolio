@@ -30,4 +30,5 @@ The objectives of this project are:
 
 **Dashboard** : 
 
-**Slides**    : Demo Day Presentation.pdf
+**Slides**    : [Demo Day Presentation.pdf
+](https://github.com/novriyaandi/Portofolio/blob/9c39e4233559bb04291fc5fbab273e2c303689c8/Demo%20Day%20Presentation.pdf)

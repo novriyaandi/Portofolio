@@ -30,4 +30,4 @@ The objectives of this project are:
 
 **Dashboard** : 
 
-**Slides**    : 
+**Slides**    : Demo Day Presentation.pdf

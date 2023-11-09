@@ -26,7 +26,7 @@ The objectives of this project are:
 
 **Skills** : Microsoft Excel, Pivot Table, Data Analytics, Canva
 
-### **Deliverables**
+#### **Deliverables**
 
 **Dashboard** : [Dashboard](https://github.com/novriyaandi/Portofolio/blob/195e2566ee4ad2fde334297622b4a383fd397007/Dashboard.xlsx)
 
@@ -49,13 +49,14 @@ Heal Plant is a machine learning-based website, in order to help the general pub
 
 **Datasets** : [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)
 
-### **Deliverables**
+#### **Deliverables**
 
 **Code** : [Google Colab](https://colab.research.google.com/drive/1nbViREMlxr09YK0S8hygD7YaQ_c1GrBO?usp=sharing)
 
 
-## Capstone Project Dicoding Indonesia
+## Machine Learning Project
 
+### IndoNLU
 
 **Description** : IndoNLU Datasets Machine Learning Projects. IndoNLU is a collection of Natural Language Understanding (NLU) resources for Bahasa Indonesia with 12 downstream tasks. They provide the code to reproduce the results and large pre-trained models (IndoBERT and IndoBERT-lite) trained with around 4 billion word corpus (Indo4B), more than 20 GB of text data. The goal is here to build ML model that can recognize words and phrase as they positive, negative or neutral.
 
@@ -64,7 +65,33 @@ Heal Plant is a machine learning-based website, in order to help the general pub
 
 **Datasets** : [IndoNLU](https://github.com/indobenchmark/indonlu)
 
-### **Deliverables**
+#### **Deliverables**
 
 **Code** :  [1](https://colab.research.google.com/drive/1W1bgstQ8U8WA2_2Vg70tcg3z07OY_BK5?usp=sharing)
             [2](https://colab.research.google.com/drive/1k53b8FS0ipW-WYXo-kadCn6-8PktFP9w?usp=sharing)
+
+
+### NLP TensorFlow
+
+**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. 
+
+
+**Library** : Numpy, Pandas, Keras, Matplotlib, Tensorflow.
+
+
+#### **Deliverables**
+
+**Code** :  [Colab](https://colab.research.google.com/drive/1nZ583IrixkQ5q4RHaFuUG2wQDKBVSh57?usp=sharing)
+
+
+### Time Series
+
+**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. 
+
+**Library** : Numpy, Pandas, Keras, Matplotlib, Tensorflow.
+
+
+#### **Deliverables**
+
+**Code** :  [Colab](https://colab.research.google.com/drive/1nZ583IrixkQ5q4RHaFuUG2wQDKBVSh57?usp=sharing)
+

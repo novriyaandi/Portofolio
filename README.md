@@ -32,3 +32,26 @@ The objectives of this project are:
 
 **Slides**    : [Demo Day Presentation.pdf
 ](https://github.com/novriyaandi/Portofolio/blob/9c39e4233559bb04291fc5fbab273e2c303689c8/Demo%20Day%20Presentation.pdf)
+
+
+## Capstone Project Dicoding Indonesia
+
+
+**Description** : The final project for 5 month Machine Learning & Front-End Developer, held by Dicoding Indonesia.Indonesia is a country with an extraordinary wealth of plant diversity. Many Indonesian people utilize this plant diversity as their main livelihood, such as agriculture and plantations. Therefore, plants are one of the living things that are quite important for Indonesia, which is an agricultural country. However, just like other living things, plants can also have dangerous and deadly diseases. This is a major concern for plant lovers in general. If people can find out the disease in their plants before things get worse, of course, prevention of plant death can be done as early as possible. 
+
+However, how can people know the disease of their plants and whether looking at the physical symptoms is enough to detect the disease, is still a question that must be resolved. This prompted us to create a plant disease detection system. Just like diseases in other living things, of course, diseases in plants also have characteristics and symptoms. With the existence of a machine learning-based website that can detect plant diseases based on the characteristics and symptoms of the disease, people can easily find out and overcome diseases in their plants.
+
+Heal Plant is a machine learning-based website, in order to help the general public to identify diseases affecting their plants and recommend suitable medicine for them.
+
+**Role** : ML/AI Developer
+
+**Skills** : Python for AI, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, SKLearn.
+
+**Datasets** : [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)
+
+### **Deliverables**
+
+**Code** : [Google Colab](https://colab.research.google.com/drive/1nbViREMlxr09YK0S8hygD7YaQ_c1GrBO?usp=sharing)
+
+
+

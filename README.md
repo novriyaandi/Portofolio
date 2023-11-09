@@ -93,6 +93,17 @@ Heal Plant is a machine learning-based website, in order to help the general pub
 
 #### **Deliverables**
 
-**Code** :  [Colab](https://colab.research.google.com/drive/1nZ583IrixkQ5q4RHaFuUG2wQDKBVSh57?usp=sharing)
+**Code** :  [Colab](https://colab.research.google.com/drive/1kfjxPtGHucg3QF1wozx3jKNOfG_JSsaw?usp=sharing)
 
+
+### Time Series
+
+**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. The project goal is to build model that can predict Bitcoin Price in USD using Bitcoin Price datasets time series.
+
+**Library** : Numpy, Pandas, Keras, Matplotlib, Tensorflow.
+
+
+#### **Deliverables**
+
+**Code** :  [1](https://colab.research.google.com/drive/1kfjxPtGHucg3QF1wozx3jKNOfG_JSsaw?usp=sharing)
 

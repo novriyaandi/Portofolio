@@ -54,4 +54,17 @@ Heal Plant is a machine learning-based website, in order to help the general pub
 **Code** : [Google Colab](https://colab.research.google.com/drive/1nbViREMlxr09YK0S8hygD7YaQ_c1GrBO?usp=sharing)
 
 
+## Capstone Project Dicoding Indonesia
 
+
+**Description** : IndoNLU Datasets Machine Learning Projects. IndoNLU is a collection of Natural Language Understanding (NLU) resources for Bahasa Indonesia with 12 downstream tasks. They provide the code to reproduce the results and large pre-trained models (IndoBERT and IndoBERT-lite) trained with around 4 billion word corpus (Indo4B), more than 20 GB of text data. The goal is here to build ML model that can recognize words and phrase as they positive, negative or neutral.
+
+
+**Library** : Numpy, Pandas, Torch, Matplotlib, Tensorflow, SKLearn.
+
+**Datasets** : [IndoNLU](https://github.com/indobenchmark/indonlu)
+
+### **Deliverables**
+
+**Code** :  [1](https://colab.research.google.com/drive/1W1bgstQ8U8WA2_2Vg70tcg3z07OY_BK5?usp=sharing)
+            [2](https://colab.research.google.com/drive/1k53b8FS0ipW-WYXo-kadCn6-8PktFP9w?usp=sharing)

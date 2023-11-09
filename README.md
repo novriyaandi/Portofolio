@@ -28,7 +28,7 @@ The objectives of this project are:
 
 ### **Deliverables**
 
-**Dashboard** : 
+**Dashboard** : [Dashboard](https://github.com/novriyaandi/Portofolio/blob/195e2566ee4ad2fde334297622b4a383fd397007/Dashboard.xlsx)
 
 **Slides**    : [Demo Day Presentation.pdf
 ](https://github.com/novriyaandi/Portofolio/blob/9c39e4233559bb04291fc5fbab273e2c303689c8/Demo%20Day%20Presentation.pdf)

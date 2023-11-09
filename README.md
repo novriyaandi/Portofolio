@@ -86,8 +86,7 @@ Heal Plant is a machine learning-based website, in order to help the general pub
 
 ### Time Series
 
-**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. The goal is to build model that can
-predict Bitcoin Price in USD using Bitcoin Price datasets time series.
+**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. The goal is to build model that can predict Bitcoin Price in USD using Bitcoin Price datasets time series.
 
 **Library** : Numpy, Pandas, Keras, Matplotlib, Tensorflow.
 

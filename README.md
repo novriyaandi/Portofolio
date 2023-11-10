@@ -3,6 +3,10 @@
 ## About Me
 Hi, I'm Novri! I’am  a fresh graduate bachelors of Math from Diponegoro University. I have the desire to develop my career in various tech fields such as Business Development, Data Scientist, Data Analyst, Data Engineer and Product Owner. I had a curious about the world  and also want to learn new things and enjoy new experiences. Individuals who are hardworking, organized, have goals and future plans that strive to be carried out in a disciplined manner.
 
+[My Newest Resume](https://drive.google.com/file/d/1ie8J1JUsvqR7urPDSmty_YorpTQNeugN/view?usp=sharing)
+
+[My Certificates and Award](https://drive.google.com/drive/folders/1Y5SjK0r2-sVl17MEI8YCCf7gr1x5KPVV?usp=drive_link)
+
 ## Introduction
 Picture me as a data alchemist, transmuting raw information into gold through the intricate arts of analytics, science, engineering, and the nuanced choreography of machine learning. It's not just about numbers; it's a symphony of patterns, a dance of correlations, and an exploration of the uncharted territories of knowledge.
 

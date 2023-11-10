@@ -73,6 +73,7 @@ How to create a collaborative filtering model for movie recommendation system?
 #### **Deliverables**
 
 **Code** : [Google Colab](https://colab.research.google.com/drive/1LZ7tN4Gn6NHQ-O8CmtsJfcXicTXAx5sh?usp=sharing)
+
 **Full Report** : [in Bahasa](https://github.com/novriyaandi/LearningProcess/blob/77af2653bd952cf6f3a6c23041690aeb17fcdb07/Laporan%20ML%20Terapan%20-%20Project%20Akhir.md)
 
 ## Machine Learning Project

@@ -102,6 +102,38 @@ How to determine the forecasting model for the change of average earth surface t
 **Full Report** : [in Bahasa](https://github.com/novriyaandi/LearningProcess/blob/77af2653bd952cf6f3a6c23041690aeb17fcdb07/Laporan%20ML%20Terapan%20-%20Time%20Series.md)
 
 
+## Data Analytics Project
+
+### Restaurant Customer Data
+
+**Description** : The project is done for an assignment for Data Science Course, held by MyEduSolve. Datasets contain customer data on restaurant. The goal of this project is to find insights from customer behavior. Several stages of data pre-processing are carried out such as loading data, converting data types, removing duplicate data, obtaining data descriptions, handling empty values and visualizing the data so that the it can be interpreted.
+
+
+**Library** : Numpy, Pandas, Matplotlib.
+
+
+#### **Deliverables**
+
+**Code** :  [Colab](https://colab.research.google.com/drive/1ClKIVAAp-1LWVS8czEzQgTU3rN8vK6_6?usp=sharing)
+
+**Results** : Most visitors are students with medium budgets and varied interests.
+
+
+### Dummy online-based transportation services Data
+
+**Description** : The project is done for an assignment for Data Science Course, held by MyEduSolve. The goal of this project is to find correlation between variable from the data. Several stages of data pre-processing are carried out such as Load Data & Understand definition of each columns, Convert DataTypes of variables if necessary, Remove Duplicates, Get Description of Data, Handle Missing Values, Handle Outliers, Understanding relationships and new insights through plots.
+
+
+**Library** : Numpy, Pandas, Matplotlib.
+
+
+#### **Deliverables**
+
+**Code** :  [Colab](https://colab.research.google.com/drive/1O5b67bXgmwGkHXdLAAEb3YivGm_OHI0_?usp=sharing)
+
+**Results** : Based on the results of the correlation heatmap graph on the transaction data above, the id variable has a moderate positive relationship with the merchant id variable because it has a correlation value of 0.63. Meanwhile, the total transaction amount variable and the merchant amount variable have a strong negative relationship because they have a correlation value of -0.73 and -0.79. Then for the merchant amount variable itself has a strong positive relationship with the total transaction amount variable because it has a correlation of 0.99.
+
+
 ## Machine Learning Project
 
 ### Image Classifier

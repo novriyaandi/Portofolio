@@ -61,7 +61,7 @@ Heal Plant is a machine learning-based website, in order to help the general pub
 
 A recommendation system is a system that assists users in overcoming information overload by providing specific recommendations for users and it is hoped that these recommendations can fulfill the wants and needs of users. But in its development, a model is needed that can provide more value to customers in the form of recommendations that can provide information about products that are considered in accordance with customer desires.
 
-Based on the previously described conditions, I developed a movie recommendation system to answer the following problems:
+Based on the previously described conditions, I developed model for a movie recommendation system to answer the following problems:
 
 How to create a collaborative filtering model for movie recommendation system?
 

@@ -76,6 +76,32 @@ How to create a collaborative filtering model for movie recommendation system?
 
 **Full Report** : [in Bahasa](https://github.com/novriyaandi/LearningProcess/blob/77af2653bd952cf6f3a6c23041690aeb17fcdb07/Laporan%20ML%20Terapan%20-%20Project%20Akhir.md)
 
+
+## Final Project 2 Dicoding Indonesia
+
+
+**Description** : Global warming is the observed increase in the earth's average temperature. The main cause of this phenomenon is the release of greenhouse gases with the burning of fossil fuels, land clearing, agriculture, among others, leading to an increase in the so-called greenhouse effect. 
+
+An approach to deal with this important issue is time series analysis. In this case, different techniques can be applied to evaluate the dynamics of global warming. This kind of analysis allows one to make better predictions improving our understanding of the phenomenon.
+
+Based on the previously described conditions, i developed model for temperature prediction system to answer the following problems:
+
+Has the average temperature of the earth's surface changed since 1750?
+
+How to determine the forecasting model for the change of average earth surface temperature?
+
+**Role** : ML/AI Developer
+
+**Library** : Numpy, Pandas, Keras, Matplotlib, Tensorflow, SKLearn.
+
+
+#### **Deliverables**
+
+**Code** : [Google Colab](https://colab.research.google.com/drive/1Fz8OrZ88LctsgJWG0AKOhGPetxq5Bxwt?usp=sharing)
+
+**Full Report** : [in Bahasa](https://github.com/novriyaandi/LearningProcess/blob/77af2653bd952cf6f3a6c23041690aeb17fcdb07/Laporan%20ML%20Terapan%20-%20Time%20Series.md)
+
+
 ## Machine Learning Project
 
 ### IndoNLU

@@ -157,14 +157,14 @@ How to determine the forecasting model for the change of average earth surface t
 **Code** :  [Colab](https://colab.research.google.com/drive/1kfjxPtGHucg3QF1wozx3jKNOfG_JSsaw?usp=sharing)
 
 
-### Time Series
+### Deployment
 
-**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. The project goal is to build model that can predict Bitcoin Price in USD using Bitcoin Price datasets time series.
+**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. The project goal is to deploy model so that it can be used in mobile apps or webiste. The first project model is about NLP and second project model is about Image classifier. First project deployment is using TensorFlow, second project deployment is using TF Lite. 
 
-**Library** : Numpy, Pandas, Keras, Matplotlib, Tensorflow.
-
+**Library** : Numpy, Pandas, Keras, Matplotlib, Tensorflow, SKLearn, json.
 
 #### **Deliverables**
 
-**Code** :  [1](https://colab.research.google.com/drive/1kfjxPtGHucg3QF1wozx3jKNOfG_JSsaw?usp=sharing)
+**Code** :  [1](https://colab.research.google.com/drive/11RLTXtq7kRgdP49yel8cIK3dWE6aA7EK?usp=sharing)
+            [2](https://colab.research.google.com/drive/1U9YW408Td1MLxPXwwWP_ZYf39-FIa6LH?usp=sharing)
 

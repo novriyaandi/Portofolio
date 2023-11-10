@@ -104,6 +104,19 @@ How to determine the forecasting model for the change of average earth surface t
 
 ## Machine Learning Project
 
+### Image Classifier
+
+**Description** : The project is done for an assignment for Machine Learning Course, held by Dicoding Indonesia. First project goal is to build model image classifier that can recognize picture of finger shapes for paper, rock and scissors. Second project goal is to build model image classifier that can recognize picture of clean room or messy room.
+
+
+**Library** : Numpy, Pandas, Torch, Matplotlib, Tensorflow, SKLearn.
+
+
+#### **Deliverables**
+
+**Code** :  [1](https://colab.research.google.com/drive/1XFyCAZVa_EcmTS0cx5WEUdwG1xpTQnVv?usp=sharing)
+            [2](https://colab.research.google.com/drive/1nLNypKgOAqdbuAZizGjJrSOUmFNrvfQU?usp=sharing)
+
 ### IndoNLU
 
 **Description** : IndoNLU Datasets Machine Learning Projects. IndoNLU is a collection of Natural Language Understanding (NLU) resources for Bahasa Indonesia with 12 downstream tasks. They provide the code to reproduce the results and large pre-trained models (IndoBERT and IndoBERT-lite) trained with around 4 billion word corpus (Indo4B), more than 20 GB of text data. The goal is here to build ML model that can recognize words and phrase as they positive, negative or neutral.

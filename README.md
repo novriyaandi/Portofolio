@@ -54,6 +54,27 @@ Heal Plant is a machine learning-based website, in order to help the general pub
 **Code** : [Google Colab](https://colab.research.google.com/drive/1nbViREMlxr09YK0S8hygD7YaQ_c1GrBO?usp=sharing)
 
 
+## Final Project 1 Dicoding Indonesia
+
+
+**Description** : Nowadays, movies have become one of the main favorite entertainments of the people. The number of movies per year is calculated to reach thousands. This creates a situation where we have difficulty in finding information that suits the criteria of movie fans. The possibility of a movie that he had not thought of at all but turned out to be interesting to see and according to one's taste. One solution to this problem is a recommendation system that utilizes other people's opinions or ratings of a movie. 
+
+A recommendation system is a system that assists users in overcoming information overload by providing specific recommendations for users and it is hoped that these recommendations can fulfill the wants and needs of users. But in its development, a model is needed that can provide more value to customers in the form of recommendations that can provide information about products that are considered in accordance with customer desires.
+
+Based on the previously described conditions, I developed a movie recommendation system to answer the following problems:
+
+How to create a collaborative filtering model for movie recommendation system?
+
+**Role** : ML/AI Developer
+
+**Library** : Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, SKLearn.
+
+
+#### **Deliverables**
+
+**Code** : [Google Colab](https://colab.research.google.com/drive/1LZ7tN4Gn6NHQ-O8CmtsJfcXicTXAx5sh?usp=sharing)
+
+
 ## Machine Learning Project
 
 ### IndoNLU

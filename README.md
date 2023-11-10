@@ -5,7 +5,21 @@ Hi, I'm Novri! I’am  a fresh graduate bachelors of Math from Diponegoro Univer
 
 [My Newest Resume](https://drive.google.com/file/d/1ie8J1JUsvqR7urPDSmty_YorpTQNeugN/view?usp=sharing)
 
-[My Certificates and Award](https://drive.google.com/drive/folders/1Y5SjK0r2-sVl17MEI8YCCf7gr1x5KPVV?usp=drive_link)
+**My Certificates and Award** :
+
+1. [Microsoft Office Specialist; Excel Associate](https://drive.google.com/file/d/1QmQZt3caoUdmFSGetJsdX_RNftdUGIlt/view?usp=sharing)
+
+2. [Microsoft Office Specialist; Excel Expert](https://drive.google.com/file/d/1TURB23MKn3xLeKZtK3W1fXCz4709UynX/view?usp=sharing)
+
+3. [IT Specialist; Python](https://drive.google.com/file/d/14Gl5IJMMqnuwkzri3XxHOr0AG9rU0iBH/view?usp=sharing)
+
+4. [Azure Fundamentals; AZ-900](https://drive.google.com/file/d/1kTql5acP9csfS-PQGgHUFqjOpTsdRPVO/view?usp=sharing)
+
+5. [Azure Data Fundamentals; AZ DP-900](https://drive.google.com/file/d/10SRYytZ64MJ3VwZnNWotNzq0mYkjl2H6/view?usp=sharing)
+
+6. [Machine Learning & Front-End Developer; Dicoding Indonesia](https://drive.google.com/drive/folders/1vWvnWJoAYC5IeM8apWMwuojv0ZBIOQqD?usp=sharing)
+
+7. [World Invention Competition & Exhibition; Silver Medalist](https://drive.google.com/file/d/1zhHGSg-_qNoV1w1msF23hIGbSkd-abHJ/view?usp=sharing)
 
 ## Introduction
 Picture me as a data alchemist, transmuting raw information into gold through the intricate arts of analytics, science, engineering, and the nuanced choreography of machine learning. It's not just about numbers; it's a symphony of patterns, a dance of correlations, and an exploration of the uncharted territories of knowledge.
